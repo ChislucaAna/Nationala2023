@@ -1,0 +1,17 @@
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.AssemblyReference.cache
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.Properties.Resources.resources
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\bin\Debug\Jocuri.mdf
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\bin\Debug\Jocuri_log.ldf
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\bin\Debug\Jocuri.exe.config
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.exe
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.pdb
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.Autentificare.resources
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.Inregistrare.resources
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.AlegeJoc.resources
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.CopyComplete
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.JocMemorie.resources
