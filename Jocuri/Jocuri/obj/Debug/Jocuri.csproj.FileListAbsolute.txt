@@ -15,3 +15,4 @@ C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.Ale
 C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\bin\Debug\MessagingToolkit.QRCode.dll
 C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.CopyComplete
 C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.JocMemorie.resources
+C:\Users\anach\OneDrive\Desktop\Nationala2023\Jocuri\Jocuri\obj\Debug\Jocuri.JocLitere.resources

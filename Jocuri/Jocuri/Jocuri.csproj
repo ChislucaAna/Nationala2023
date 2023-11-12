@@ -83,6 +83,12 @@
     <Compile Include="Inregistrare.Designer.cs">
       <DependentUpon>Inregistrare.cs</DependentUpon>
     </Compile>
+    <Compile Include="JocLitere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JocLitere.Designer.cs">
+      <DependentUpon>JocLitere.cs</DependentUpon>
+    </Compile>
     <Compile Include="JocMemorie.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +110,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Inregistrare.resx">
       <DependentUpon>Inregistrare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JocLitere.resx">
+      <DependentUpon>JocLitere.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="JocMemorie.resx">
       <DependentUpon>JocMemorie.cs</DependentUpon>

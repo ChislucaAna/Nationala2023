@@ -20,7 +20,7 @@ namespace Jocuri
         StreamReader reader;
         AlegeJoc callable = new AlegeJoc();
         Inregistrare callable2 = new Inregistrare();
-        JocMemorie callable3 = new JocMemorie();
+        JocLitere callable3 = new JocLitere();
         string line,qr;
         public static string adresa;
         public  static string parola;

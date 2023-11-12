@@ -92,7 +92,7 @@ namespace Jocuri
                     }
                     else
                     {
-                        panouri[compare[1]].card.Image = null;
+                        panouri[compare[1]].card.Image = null;  
                         panouri[compare[1]].shown = 0;
                         panouri[compare[1]].card.Refresh();
 
